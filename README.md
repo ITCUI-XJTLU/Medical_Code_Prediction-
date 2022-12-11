@@ -9,11 +9,11 @@ Use BERT , Clinical-BERT and Longformer to do the medical code prediction
 
 ## Introduction for each notebook
 1. Summer Research Report : a summary of my work
-2. CAML_RUN: to run the [CAML](https://github.com/jamesmullenbach/caml-mimic) model by google colab environment. \\ 
-3. Find_MN: extract the patients who suffer from therioma.  \\
-4. LAAT_Run: run a classical LSTM-based model for medical code prediction by colab, you could see more infomation from [here](https://paperswithcode.com/paper/a-label-attention-model-for-icd-coding-from).  \\
-5. Transformer_MCP_xxxxx : a completed pipeline for fine-turn different pretrained models to do the task, you coud see more information in each notebook.  \\
-6. Data_Augmentation_sub_1,2,3 : The code used for preparing augmented data, you could see more infomation about the way i do the data augmentation in my research report.  \\
+2. CAML_RUN: to run the [CAML](https://github.com/jamesmullenbach/caml-mimic) model by google colab environment. \
+3. Find_MN: extract the patients who suffer from therioma.  \
+4. LAAT_Run: run a classical LSTM-based model for medical code prediction by colab, you could see more infomation from [here](https://paperswithcode.com/paper/a-label-attention-model-for-icd-coding-from).  \
+5. Transformer_MCP_xxxxx : a completed pipeline for fine-turn different pretrained models to do the task, you coud see more information in each notebook.  \
+6. Data_Augmentation_sub_1,2,3 : The code used for preparing augmented data, you could see more infomation about the way i do the data augmentation in my research report.  \
 
 
 if you have any problem with these codes, do not hesitate to send the email to me (tengfei.cui19@studetn.xjtlu.edu.cn , cuitengfei2021@gmail.com)
